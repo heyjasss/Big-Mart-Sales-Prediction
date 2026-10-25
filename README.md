@@ -32,4 +32,5 @@ The dataset contains retail product and outlet information used to understand sa
 Developed a machine learning project to estimate product sales based on historical data and product-related features.
 
 ## Author
-Harmeet Kaur
+Jagtar Singh
+
